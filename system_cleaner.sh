@@ -2,11 +2,10 @@
 # System logs cleaner
 # Mr. Fana
 
-
-#Change to the var location:
-function change_path()
+function clean_logs()
 {
-	cd /var/log
+	sudo rm -rf /var/log/*
+  ls /var/log/
 }
 
-change_path
+clean_logs
