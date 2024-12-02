@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Back In Black",
+    "artist": "AC/DC",
+    "release_date": "1980-07-21"
+  },
+  {
+    "name": "Sweet Child o' Mine",
+    "artist": "Guns N' Roses",
+    "release_date": "1987-08-17"
+  },
+  {
+    "name": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "release_date": "1991-09-10"
+  },
+  {
+    "name": "Enter Sandman",
+    "artist": "Metallica",
+    "release_date": "1991-07-29"
+  },
+  {
+    "name": "Highway to Hell",
+    "artist": "AC/DC",
+    "release_date": "1979-08-27"
+  },
+  {
+    "name": "Paranoid",
+    "artist": "Black Sabbath",
+    "release_date": "1970-09-18"
+  },
+  {
+    "name": "Kashmir",
+    "artist": "Led Zeppelin",
+    "release_date": "1975-02-24"
+  },
+  {
+    "name": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "release_date": "1986-10-31"
+  },
+  {
+    "name": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "release_date": "1980-09-21"
+  },
+  {
+    "name": "November Rain",
+    "artist": "Guns N' Roses",
+    "release_date": "1991-02-18"
+  }
+]
